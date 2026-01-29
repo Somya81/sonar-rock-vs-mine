@@ -45,10 +45,5 @@ This project was built for learning purposes to strengthen basic concepts of mac
 - Pandas
 - Scikit-learn
 
----
 
-## 📁 File Structure
-sonar-rock-vs-mine/
-├── Untitled (1).ipynb # Jupyter notebook containing data analysis, model training, and evaluation
-├── Copy of sonar.csv # Dataset used for training and testing the model
-└── README.md # Project documentation
+
